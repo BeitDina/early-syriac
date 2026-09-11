@@ -1,6 +1,6 @@
-Copyright: Copyright (C) 2026 The BeitDina Team (https://github.com/beitdina/imperial-aramaic)\n
+Copyright: Copyright (C) 2026 The BeitDina Team (https://github.com/beitdina/imperial-aramaic).
 
-Imperial Aramaic Font with Early Imperial Aramaic artistic influences (cca. 700-500 BCE) \n
+Nabataean-Aramaic Font with Sianitic artistical influences.
 
 Created with FontForge 20230101 at Fri Jul 24 05:03:14 2026\nby Florin Ciprian Bodin aka orynider @ github.com/beitdina/early-aramaic original based on Cardo with SIL Open Font License, \n
 and some glyphs based on Noto Imperial Aramaic and Noto Samaritan made by The Not Noto Project Authors (https://github.com/notofonts/imperial-aramaic)\n
