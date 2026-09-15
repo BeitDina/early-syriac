@@ -1,4 +1,4 @@
-Copyright: Copyright (C) 2026 The BeitDina Team (https://github.com/beitdina/imperial-aramaic).
+Copyright: Copyright (C) 2026 The BeitDina Team (https://github.com/beitdina/nabataean-aramaic).
 
 Nabataean-Aramaic Font with Sianitic artistical influences.
 
