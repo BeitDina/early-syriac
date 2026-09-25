@@ -1,4 +1,4 @@
-# Imperial-Aramaic Font with Early Imperial Aramaic artistic influences (cca. 550-330 BCE) 
+# Early Syriac imported from Noto Syriac and Cardo and Nabatean Aramaic. 
 
 [![][Fontbakery]](https://notofonts.github.io/imperial-aramaic/fontbakery/fontbakery-report.html)
 [![][Universal]](https://notofonts.github.io/imperial-aramaic/fontbakery/fontbakery-report.html)
