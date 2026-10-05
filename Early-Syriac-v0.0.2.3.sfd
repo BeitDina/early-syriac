@@ -4,8 +4,8 @@ FullName: Early Syriac
 FamilyName: Early-Syriac
 Weight: Regular
 Copyright: Copyright: Copyright (C) 2026 The BeitDina Team (https://github.com/beitdina/nabataean-aramic\n\nSamaritan-Aramaic Font with Early Imperial Aramaic artistic influences from Petra. (cca. 920-270 BCE). \n\nNabataean-Aramaic Font with Proto-Sianitic and Nabataean-Aramaic artistic influences from Sinai, Syria and Israel..\n\nOfficial Aramaic Font of writing around 330-260 BCE preserved in Israel and Levanon, with Official Aramaic artistic influences. \n\nAncient Aramaic Font with Ancient Aramaic artistic influences (cca. 700-550 BCE) \n\nImperial Aramaic Font with Early Imperial Aramaic artistic influences (cca. 950-650 BCE)\n\nCreated with FontForge 20230101 at Fri Jul 24 05:03:14 2026 by Florin Ciprian Bodin aka orynider @ github.com/beitdina/early-aramaic original based on Cardo with SIL Open Font License, \nand some glyphs based on Noto Imperial Aramaic and Noto Samaritan made by The Not Noto Project Authors (https://github.com/notofonts/imperial-aramaic)\nand some portions of font metrics are based on GNU-GPL version and MIT License of Keter Aram Tzova by Yoram Knat \nwho used Hebrew OpenType Layout logic copyright (c) 2003 & 2007, Ralph Hancock & John Hudson. \nThis layout logic for Biblical Hebrew is open source software under the MIT License; for details  contact copyright holders at <license@tiro.com>, \nSome syriac glyphs are under Copyright 2022 by The Noto Project Authors (https://github.com/notofonts/syriac)
-FontLog: "*In 3 September 2023 made version 0.4.4 by Florin Ciprian Bodin;"
-Version: 0.0.1
+FontLog: "*In 15 September 2026 made version 0.0.1 by Florin Ciprian Bodin;+AAoA*In 3 September 2023 made version 0.0.2; Added Edessa Tower Aleph;+AAoA"
+Version: 0.0.2
 ItalicAngle: 0
 UnderlinePosition: -170
 UnderlineWidth: 70
@@ -21,7 +21,7 @@ OS2Version: 0
 OS2_WeightWidthSlopeOnly: 0
 OS2_UseTypoMetrics: 0
 CreationTime: 1244295734
-ModificationTime: 1791160877
+ModificationTime: 1791163021
 PfmFamily: 17
 TTFWeight: 600
 TTFWidth: 5
@@ -2307,7 +2307,7 @@ MacName: 0 0 7 "Cursive"
 MacName: 0 1 20 "Pleinement connectes"
 MacName: 0 4 7 "Cursief"
 EndMacFeatures
-LangName: 1033 "" "" "" "" "" "0.0.1" "" "" "" "" "" "" "" "Copyright: Copyright (C) 2026 The BeitDina Team (https://github.com/beitdina/samaritan-aramaic+AAoACgAA-Nabataean-Aramic Font with Proto-Sianitic and Imperial-Aramaic artistic influences from Sinai and Petra.+AAoACgAK-Nabataean-Aramic Font with Proto-Sianitic and Nabataean-Aramaic artistic influences from Sinai, Syria and Israel (920BCE-400CE).+AAoACgAA-Samaritan-Aramaic Font with Early Imperial Aramaic artistic influences from Petra.+AAoACgAA-Official Aramaic Font of writing around 330-260 BCE preserved in Israel and Levanon, with Official Aramaic artistic influences. +AAoACgAA-Ancient Aramaic Font with Ancient Aramaic artistic influences (cca. 700-550 BCE) +AAoACgAA-Imperial Aramaic Font with Early Imperial Aramaic artistic influences (cca. 950-650 BCE)+AA0ACgAK-Ahiram's Sarcofagus Early Armaic Font (975 BCE) Created with FontForge 20230101 at Fri Jul 24 05:03:14 2026 by Florin Ciprian Bodin aka orynider @ github.com/beitdina/early-aramaic original based on Cardo with SIL Open Font License, and some portions of font metrics are based on GNU-GPL version and MIT License of Keter Aram Tzova by Yoram Knat who used Hebrew OpenType Layout logic copyright (c) 2003 & 2007, Ralph Hancock & John Hudson. This layout logic for Biblical Hebrew is open source software under the MIT License; for details  contact copyright holders at <license@tiro.com>+AAoACgAA-Some syriac glyphs are under Copyright 2022 by The Noto Project Authors (https://github.com/notofonts/syriac)+AAoACgAA-This license is copied below, and is also available with a FAQ at:+AAoA-http://scripts.sil.org/OFL+AAoACgAK------------------------------------------------------------+AAoA-SIL OPEN FONT LICENSE Version 1.1 - 26 February 2007+AAoA------------------------------------------------------------+AAoACgAA-PREAMBLE+AAoA-The goals of the Open Font License (OFL) are to stimulate worldwide+AAoA-development of collaborative font projects, to support the font creation+AAoA-efforts of academic and linguistic communities, and to provide a free and+AAoA-open framework in which fonts may be shared and improved in partnership+AAoA-with others.+AAoACgAA-The OFL allows the licensed fonts to be used, studied, modified and+AAoA-redistributed freely as long as they are not sold by themselves. The+AAoA-fonts, including any derivative works, can be bundled, embedded, +AAoA-redistributed and/or sold with any software provided that any reserved+AAoA-names are not used by derivative works. The fonts and derivatives,+AAoA-however, cannot be released under any other type of license. The+AAoA-requirement for fonts to remain under this license does not apply+AAoA-to any document created using the fonts or their derivatives.+AAoACgAA-DEFINITIONS+AAoAIgAA-Font Software+ACIA refers to the set of files released by the Copyright+AAoA-Holder(s) under this license and clearly marked as such. This may+AAoA-include source files, build scripts and documentation.+AAoACgAi-Reserved Font Name+ACIA refers to any names specified as such after the+AAoA-copyright statement(s).+AAoACgAi-Original Version+ACIA refers to the collection of Font Software components as+AAoA-distributed by the Copyright Holder(s).+AAoACgAi-Modified Version+ACIA refers to any derivative made by adding to, deleting,+AAoA-or substituting -- in part or in whole -- any of the components of the+AAoA-Original Version, by changing formats or by porting the Font Software to a+AAoA-new environment.+AAoACgAi-Author+ACIA refers to any designer, engineer, programmer, technical+AAoA-writer or other person who contributed to the Font Software.+AAoACgAA-PERMISSION & CONDITIONS+AAoA-Permission is hereby granted, free of charge, to any person obtaining+AAoA-a copy of the Font Software, to use, study, copy, merge, embed, modify,+AAoA-redistribute, and sell modified and unmodified copies of the Font+AAoA-Software, subject to the following conditions:+AAoACgAA-1) Neither the Font Software nor any of its individual components,+AAoA-in Original or Modified Versions, may be sold by itself.+AAoACgAA-2) Original or Modified Versions of the Font Software may be bundled,+AAoA-redistributed and/or sold with any software, provided that each copy+AAoA-contains the above copyright notice and this license. These can be+AAoA-included either as stand-alone text files, human-readable headers or+AAoA-in the appropriate machine-readable metadata fields within text or+AAoA-binary files as long as those fields can be easily viewed by the user.+AAoACgAA-3) No Modified Version of the Font Software may use the Reserved Font+AAoA-Name(s) unless explicit written permission is granted by the corresponding+AAoA-Copyright Holder. This restriction only applies to the primary font name as+AAoA-presented to the users.+AAoACgAA-4) The name(s) of the Copyright Holder(s) or the Author(s) of the Font+AAoA-Software shall not be used to promote, endorse or advertise any+AAoA-Modified Version, except to acknowledge the contribution(s) of the+AAoA-Copyright Holder(s) and the Author(s) or with their explicit written+AAoA-permission.+AAoACgAA-5) The Font Software, modified or unmodified, in part or in whole,+AAoA-must be distributed entirely under this license, and must not be+AAoA-distributed under any other license. The requirement for fonts to+AAoA-remain under this license does not apply to any document created+AAoA-using the Font Software.+AAoACgAA-TERMINATION+AAoA-This license becomes null and void if any of the above conditions are+AAoA-not met.+AAoACgAA-DISCLAIMER+AAoA-THE FONT SOFTWARE IS PROVIDED +ACIA-AS IS+ACIA, WITHOUT WARRANTY OF ANY KIND,+AAoA-EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO ANY WARRANTIES OF+AAoA-MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT+AAoA-OF COPYRIGHT, PATENT, TRADEMARK, OR OTHER RIGHT. IN NO EVENT SHALL THE+AAoA-COPYRIGHT HOLDER BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY,+AAoA-INCLUDING ANY GENERAL, SPECIAL, INDIRECT, INCIDENTAL, OR CONSEQUENTIAL+AAoA-DAMAGES, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING+AAoA-FROM, OUT OF THE USE OR INABILITY TO USE THE FONT SOFTWARE OR FROM+AAoA-OTHER DEALINGS IN THE FONT SOFTWARE." "http://scripts.sil.org/OFL"
+LangName: 1033 "" "" "" "" "" "0.0.2" "" "" "" "" "" "" "" "Copyright: Copyright (C) 2026 The BeitDina Team (https://github.com/beitdina/samaritan-aramaic+AAoACgAA-Nabataean-Aramic Font with Proto-Sianitic and Imperial-Aramaic artistic influences from Sinai and Petra.+AAoACgAK-Nabataean-Aramic Font with Proto-Sianitic and Nabataean-Aramaic artistic influences from Sinai, Syria and Israel (920BCE-400CE).+AAoACgAA-Samaritan-Aramaic Font with Early Imperial Aramaic artistic influences from Petra.+AAoACgAA-Official Aramaic Font of writing around 330-260 BCE preserved in Israel and Levanon, with Official Aramaic artistic influences. +AAoACgAA-Ancient Aramaic Font with Ancient Aramaic artistic influences (cca. 700-550 BCE) +AAoACgAA-Imperial Aramaic Font with Early Imperial Aramaic artistic influences (cca. 950-650 BCE)+AA0ACgAK-Ahiram's Sarcofagus Early Armaic Font (975 BCE) Created with FontForge 20230101 at Fri Jul 24 05:03:14 2026 by Florin Ciprian Bodin aka orynider @ github.com/beitdina/early-aramaic original based on Cardo with SIL Open Font License, and some portions of font metrics are based on GNU-GPL version and MIT License of Keter Aram Tzova by Yoram Knat who used Hebrew OpenType Layout logic copyright (c) 2003 & 2007, Ralph Hancock & John Hudson. This layout logic for Biblical Hebrew is open source software under the MIT License; for details  contact copyright holders at <license@tiro.com>+AAoACgAA-Some syriac glyphs are under Copyright 2022 by The Noto Project Authors (https://github.com/notofonts/syriac)+AAoACgAA-This license is copied below, and is also available with a FAQ at:+AAoA-http://scripts.sil.org/OFL+AAoACgAK------------------------------------------------------------+AAoA-SIL OPEN FONT LICENSE Version 1.1 - 26 February 2007+AAoA------------------------------------------------------------+AAoACgAA-PREAMBLE+AAoA-The goals of the Open Font License (OFL) are to stimulate worldwide+AAoA-development of collaborative font projects, to support the font creation+AAoA-efforts of academic and linguistic communities, and to provide a free and+AAoA-open framework in which fonts may be shared and improved in partnership+AAoA-with others.+AAoACgAA-The OFL allows the licensed fonts to be used, studied, modified and+AAoA-redistributed freely as long as they are not sold by themselves. The+AAoA-fonts, including any derivative works, can be bundled, embedded, +AAoA-redistributed and/or sold with any software provided that any reserved+AAoA-names are not used by derivative works. The fonts and derivatives,+AAoA-however, cannot be released under any other type of license. The+AAoA-requirement for fonts to remain under this license does not apply+AAoA-to any document created using the fonts or their derivatives.+AAoACgAA-DEFINITIONS+AAoAIgAA-Font Software+ACIA refers to the set of files released by the Copyright+AAoA-Holder(s) under this license and clearly marked as such. This may+AAoA-include source files, build scripts and documentation.+AAoACgAi-Reserved Font Name+ACIA refers to any names specified as such after the+AAoA-copyright statement(s).+AAoACgAi-Original Version+ACIA refers to the collection of Font Software components as+AAoA-distributed by the Copyright Holder(s).+AAoACgAi-Modified Version+ACIA refers to any derivative made by adding to, deleting,+AAoA-or substituting -- in part or in whole -- any of the components of the+AAoA-Original Version, by changing formats or by porting the Font Software to a+AAoA-new environment.+AAoACgAi-Author+ACIA refers to any designer, engineer, programmer, technical+AAoA-writer or other person who contributed to the Font Software.+AAoACgAA-PERMISSION & CONDITIONS+AAoA-Permission is hereby granted, free of charge, to any person obtaining+AAoA-a copy of the Font Software, to use, study, copy, merge, embed, modify,+AAoA-redistribute, and sell modified and unmodified copies of the Font+AAoA-Software, subject to the following conditions:+AAoACgAA-1) Neither the Font Software nor any of its individual components,+AAoA-in Original or Modified Versions, may be sold by itself.+AAoACgAA-2) Original or Modified Versions of the Font Software may be bundled,+AAoA-redistributed and/or sold with any software, provided that each copy+AAoA-contains the above copyright notice and this license. These can be+AAoA-included either as stand-alone text files, human-readable headers or+AAoA-in the appropriate machine-readable metadata fields within text or+AAoA-binary files as long as those fields can be easily viewed by the user.+AAoACgAA-3) No Modified Version of the Font Software may use the Reserved Font+AAoA-Name(s) unless explicit written permission is granted by the corresponding+AAoA-Copyright Holder. This restriction only applies to the primary font name as+AAoA-presented to the users.+AAoACgAA-4) The name(s) of the Copyright Holder(s) or the Author(s) of the Font+AAoA-Software shall not be used to promote, endorse or advertise any+AAoA-Modified Version, except to acknowledge the contribution(s) of the+AAoA-Copyright Holder(s) and the Author(s) or with their explicit written+AAoA-permission.+AAoACgAA-5) The Font Software, modified or unmodified, in part or in whole,+AAoA-must be distributed entirely under this license, and must not be+AAoA-distributed under any other license. The requirement for fonts to+AAoA-remain under this license does not apply to any document created+AAoA-using the Font Software.+AAoACgAA-TERMINATION+AAoA-This license becomes null and void if any of the above conditions are+AAoA-not met.+AAoACgAA-DISCLAIMER+AAoA-THE FONT SOFTWARE IS PROVIDED +ACIA-AS IS+ACIA, WITHOUT WARRANTY OF ANY KIND,+AAoA-EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO ANY WARRANTIES OF+AAoA-MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT+AAoA-OF COPYRIGHT, PATENT, TRADEMARK, OR OTHER RIGHT. IN NO EVENT SHALL THE+AAoA-COPYRIGHT HOLDER BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY,+AAoA-INCLUDING ANY GENERAL, SPECIAL, INDIRECT, INCIDENTAL, OR CONSEQUENTIAL+AAoA-DAMAGES, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING+AAoA-FROM, OUT OF THE USE OR INABILITY TO USE THE FONT SOFTWARE OR FROM+AAoA-OTHER DEALINGS IN THE FONT SOFTWARE." "http://scripts.sil.org/OFL"
 GaspTable: 1 65535 2 0
 Encoding: Custom
 Compacted: 1
@@ -2316,7 +2316,7 @@ NameList: Adobe Glyph List
 DisplaySize: -48
 AntiAlias: 1
 FitToEm: 1
-WinInfo: 180 20 9
+WinInfo: 0 20 9
 BeginPrivate: 1
 BlueValues 6 [0 20]
 EndPrivate
@@ -29699,50 +29699,36 @@ EndChar
 
 StartChar: uni0710
 Encoding: 1808 1808 460
-Width: 1015
+Width: 1867
 GlyphClass: 1
-Flags: W
+Flags: HWO
 LayerCount: 2
 Fore
 SplineSet
-792 -22 m 1
- 767 -19 767 -19 730.5 -5 c 128
- 694 9 694 9 643 41 c 128
- 592 73 592 73 521 130 c 256
- 442 195 442 195 391 229.5 c 128
- 340 264 340 264 305 277.5 c 128
- 270 291 270 291 237 291 c 2
- 152 303 152 303 221 291 c 1
- 227 270 227 270 235 234 c 128
- 243 198 243 198 251.5 155.5 c 128
- 260 113 260 113 267.5 72 c 128
- 275 31 275 31 279 0 c 1
- 171 0 171 0 111 0 c 1
- 106 32 106 32 100 67 c 128
- 94 102 94 102 86.5 137.5 c 128
- 79 173 79 173 71.5 209 c 128
- 64 245 64 245 56 279 c 0
- 49 313 49 313 47 336.5 c 128
- 45 360 45 360 45 367 c 0
- 45 447 45 447 95 471 c 1
- 142 464 142 464 182 461 c 128
- 222 458 222 458 251.5 457 c 128
- 281 456 281 456 296 456 c 0
- 418 456 418 456 526 478 c 128
- 634 500 634 500 730 545.5 c 128
- 826 591 826 591 910 661 c 1
- 895.5 571 895.5 571 1015 545 c 1
- 958 484 958 484 875 436 c 128
- 792 388 792 388 699.5 358.5 c 128
- 607 329 607 329 519 322 c 1
- 390 304.5 390 304.5 519 318 c 1
- 562 299 562 299 593 280.5 c 128
- 624 262 624 262 661 238 c 256
- 691 219 691 219 719 202 c 128
- 747 185 747 185 772 170 c 0
- 798 154 798 154 824 143.5 c 128
- 850 133 850 133 875 126 c 1
- 763 25 763 25 792 -22 c 1
+1359.27539062 105.568359375 m 1
+ 1195.62402344 162.012695312 1091.1484375 226.537109375 982.407226562 349.758789062 c 1
+ 896.150390625 433.00390625 843.950195312 531.404296875 760.111328125 598.797851562 c 0
+ 717.899414062 629.543945312 680.067382812 651.463867188 635.372070312 661.053710938 c 0
+ 600.620117188 668.510742188 564.845703125 661.296875 527.624023438 663.317382812 c 0
+ 470.470703125 665.497070312 423.818359375 667.064453125 378.018554688 668.526367188 c 0
+ 340.080078125 669.737304688 302.7265625 670.875976562 260.473632812 672.231445312 c 1
+ 272.73046875 610.966796875 257.455078125 526.927734375 252.151367188 464.97265625 c 0
+ 247.34375 408.806640625 222.463867188 338.2734375 213.3671875 286.999023438 c 0
+ 198.889648438 205.393554688 221.291992188 148.787109375 227.611328125 96.6123046875 c 1
+ 128.146484375 94.470703125 l 1
+ 63.025390625 304.643554688 195.11328125 425.1484375 161.791992188 595.568359375 c 0
+ 153.599609375 633.796875 149.50390625 657.690429688 149.50390625 667.248046875 c 0
+ 149.50390625 725.95703125 169.301757812 760.7734375 208.896484375 771.696289062 c 1
+ 245.759765625 767.599609375 283.6484375 763.845703125 322.559570312 760.431640625 c 0
+ 429.188476562 751.46875 538.104492188 749.223632812 634.879882812 749.16796875 c 0
+ 765.952148438 749.16796875 900.4375 769.306640625 1038.3359375 809.583984375 c 0
+ 1180.24316406 853.982421875 1315.85839844 911.020507812 1441.8203125 980.376953125 c 0
+ 1564.67382812 1048.02050781 1678.34375 1127.38085938 1779.71191406 1218.16015625 c 1
+ 1764.12890625 1068.13574219 l 1
+ 1481.90527344 866.38671875 1120.14746094 707.642578125 827.45703125 668.041015625 c 1
+ 950.528320312 567.772460938 1040.76269531 424.047851562 1161.890625 334.306640625 c 0
+ 1242.18554688 276.3125 1272.484375 237.004882812 1390.56054688 201.135742188 c 1
+ 1359.27539062 105.568359375 l 1
 EndSplineSet
 EndChar
 
