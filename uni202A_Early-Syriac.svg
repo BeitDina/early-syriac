@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   inkscape:version="1.0rc1 (09960d6f05, 2020-04-09)"
+   sodipodi:docname="uni202A_Early-Syriac.svg"
+   id="svg4"
+   viewBox="-10 0 507 2048"
+   version="1.1">
+  <metadata
+     id="metadata10">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <defs
+     id="defs8" />
+  <sodipodi:namedview
+     inkscape:current-layer="svg4"
+     inkscape:window-maximized="0"
+     inkscape:window-y="2"
+     inkscape:window-x="130"
+     inkscape:cy="1024"
+     inkscape:cx="-303.73802"
+     inkscape:zoom="0.13671875"
+     showgrid="false"
+     id="namedview6"
+     inkscape:window-height="480"
+     inkscape:window-width="915"
+     inkscape:pageshadow="2"
+     inkscape:pageopacity="0"
+     guidetolerance="10"
+     gridtolerance="10"
+     objecttolerance="10"
+     borderopacity="1"
+     bordercolor="#666666"
+     pagecolor="#ffffff" />
+  <path
+     sodipodi:nodetypes="sscccccccccccccccsscccsss"
+     inkscape:connector-curvature="0"
+     id="path26"
+     d="m 225.08999,1480.2403 c -2.9401,-3.3219 -5.3455,-188.5038 -5.3455,-411.515 V 663.25049 h -56.4477 -56.4478 l 2.0612,-137.74842 2.0613,-137.74842 h 135.0285 135.0286 l 2.3737,23.31127 2.3736,23.31127 h -116.7728 -116.7729 v 93.24509 93.24508 h 116.2746 116.2746 v 21.19206 c 0,20.71872 -1.2551,21.19207 -56.1899,21.19207 h -56.1898 l -1.9475,409.00681 -1.9474,409.0069 -19.0347,2.5083 c -10.4691,1.3796 -21.4402,-0.2093 -24.3801,-3.532 z"
+     style="fill:#000000;stroke-width:7.97431" />
+</svg>
