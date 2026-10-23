@@ -1,24 +1,20 @@
 # Early Syriac imported from Noto Syriac and Cardo and Nabatean Aramaic. 
 
-[![][Fontbakery]](https://notofonts.github.io/imperial-aramaic/fontbakery/fontbakery-report.html)
-[![][Universal]](https://notofonts.github.io/imperial-aramaic/fontbakery/fontbakery-report.html)
-[![][GF Profile]](https://notofonts.github.io/imperial-aramaic/fontbakery/fontbakery-report.html)
-[![][Outline Correctness]](https://notofonts.github.io/imperial-aramaic/fontbakery/fontbakery-report.html)
-[![][Shaping]](https://notofonts.github.io/imperial-aramaic/fontbakery/fontbakery-report.html)
+The font is hosted at GitHub at https://github.com/beitdina/early-syriac
 
-[Fontbakery]: https://img.shields.io/endpoint?url=https%3A%2F%2Fraw.githubusercontent.com%2Fnotofonts%2Fimperial-aramaic%2Fgh-pages%2Fbadges%2Foverall.json
-[GF Profile]: https://img.shields.io/endpoint?url=https%3A%2F%2Fraw.githubusercontent.com%2Fnotofonts%2Fimperial-aramaic%2Fgh-pages%2Fbadges%2FGoogleFonts.json
-[Noto Profile]: https://img.shields.io/endpoint?url=https%3A%2F%2Fraw.githubusercontent.com%2Fnotofonts%2Fimperial-aramaic%2Fgh-pages%2Fbadges%2FNotoFonts.json
-[Outline Correctness]: https://img.shields.io/endpoint?url=https%3A%2F%2Fraw.githubusercontent.com%2Fnotofonts%2Fimperial-aramaic%2Fgh-pages%2Fbadges%2FOutlineCorrectnessChecks.json
-[Shaping]: https://img.shields.io/endpoint?url=https%3A%2F%2Fraw.githubusercontent.com%2Fnotofonts%2Fimperial-aramaic%2Fgh-pages%2Fbadges%2FShapingChecks.json
-[Universal]: https://img.shields.io/endpoint?url=https%3A%2F%2Fraw.githubusercontent.com%2Fnotofonts%2Fimperial-aramaic%2Fgh-pages%2Fbadges%2FUniversal.json
+Copyright: Copyright: Copyright (C) 2026 The BeitDina Team (https://github.com/beitdina/nabataean-aramic\n\nSamaritan-Aramaic Font with Early Imperial Aramaic artistic influences from Petra. (cca. 920-270 BCE). 
 
-The proof files and QA tests are also available automatically via GitHub Actions - look at (https://github.com/notofonts/syriac).
+Also Nabataean-Aramaic Font with Proto-Sianitic and Nabataean-Aramaic artistic influences from Sinai, Syria and Israel..
+Also Official Aramaic Font of writing around 330-260 BCE preserved in Israel and Levanon, with Official Aramaic artistic influences. 
+Also Ancient Aramaic Font with Ancient Aramaic artistic influences (cca. 700-550 BCE) 
 
-For information on how to work on Noto fonts, how the build process
-works and how to maintain it, see [the README file of the
-notofonts.github.io
-repository](https://github.com/notofonts/notofonts.github.io/blob/main/README.md)
+Also Imperial Aramaic Font with Early Imperial Aramaic artistic influences (cca. 950-650 BCE)
+
++
+
+Created with FontForge 20230101 at Fri Jul 24 05:03:14 2026 by Florin Ciprian Bodin aka orynider @ github.com/beitdina/early-aramaic original based on Cardo with SIL Open Font License, \nand some glyphs based on Noto Imperial Aramaic and Noto Samaritan made by The Not Noto Project Authors (https://github.com/notofonts/imperial-aramaic) and some portions of font metrics are based on GNU-GPL version and MIT License of Keter Aram Tzova by Yoram Knat 
+who used Hebrew OpenType Layout logic copyright (c) 2003 & 2007, Ralph Hancock & John Hudson.\n \nThis layout logic for Biblical Hebrew is open source software under the MIT License; for details  contact copyright holders at <license@tiro.com>, \nSome syriac glyphs are under Copyright 2022 by The Noto Project Authors (https://github.com/notofonts/syriac)\n\nAlso Sans Early-Syriac is under Copyright (C) 2026 by BeitDina.NET Team (https://github.com/beitdina/early-syriac), and 2023 by The Noto Project Authors (https://github.com/notofonts/syriac).
+FontLog: "*In 15 September 2026 made version 0.0.1 by Florin Ciprian Bodin;+AAoA*In 3 September 2023 made version 0.0.2; Added Edessa Tower Aleph, Beit, Gamel, Dalet;+AAoA"
 
 ## License
 
