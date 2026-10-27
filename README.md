@@ -16,6 +16,9 @@ Created with FontForge 20230101 at Fri Jul 24 05:03:14 2026 by Florin Ciprian Bo
 who used Hebrew OpenType Layout logic copyright (c) 2003 & 2007, Ralph Hancock & John Hudson.\n \nThis layout logic for Biblical Hebrew is open source software under the MIT License; for details  contact copyright holders at <license@tiro.com>, \nSome syriac glyphs are under Copyright 2022 by The Noto Project Authors (https://github.com/notofonts/syriac)\n\nAlso Sans Early-Syriac is under Copyright (C) 2026 by BeitDina.NET Team (https://github.com/beitdina/early-syriac), and 2023 by The Noto Project Authors (https://github.com/notofonts/syriac).
 FontLog: "*In 15 September 2026 made version 0.0.1 by Florin Ciprian Bodin;+AAoA*In 3 September 2023 made version 0.0.2; Added Edessa Tower Aleph, Beit, Gamel, Dalet;+AAoA"
 
+SreenShouts:
+![1). Syriac versus Early Syriac](https://github.com/BeitDina/early-syriac/blob/main/documentation/Noto-Sans-Syriac-Light-versus-Sans-Early-Syriac-Regular-019_26102026_John-7-verse-29.jpg)
+
 ## License
 
 This Font Software is licensed under the SIL Open Font License, Version 1.1.
