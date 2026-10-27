@@ -17,7 +17,8 @@ who used Hebrew OpenType Layout logic copyright (c) 2003 & 2007, Ralph Hancock &
 FontLog: "*In 15 September 2026 made version 0.0.1 by Florin Ciprian Bodin;+AAoA*In 3 September 2023 made version 0.0.2; Added Edessa Tower Aleph, Beit, Gamel, Dalet;+AAoA"
 
 SreenShouts:
-![1). Syriac versus Early Syriac](https://github.com/BeitDina/early-syriac/blob/main/documentation/Noto-Sans-Syriac-Light-versus-Sans-Early-Syriac-Regular-019_26102026_John-7-verse-29.jpg)
+1). Syriac with Noto Font and Underline versus Early Syriac with our font that can be ignored in Libre Office at Profiling and Grammar Check.
+![Sample](https://github.com/BeitDina/early-syriac/blob/main/documentation/Noto-Sans-Syriac-Light-versus-Sans-Early-Syriac-Regular-019_26102026_John-7-verse-29.jpg)
 
 ## License
 
