@@ -1,14 +1,17 @@
-Copyright: PsalmScroll Hashmonian Light Copyright (C) 2026 The BeitDina.NET Team (https://github.com/BeitDina/Psalms-Scroll-Font-Hasmonean) 
-and Copyright (C) 2019 The Solitreo Project Authors (https://github.com/ladinoprojects/solitreo), 
-and Copyleft: Copyright (C) 2026 The BeitDina Team (https://github.com/beitdina/nabataean-aramic\ Created with FontForge 20230101 at Fri Jul 24 05:03:14 2026\nby Florin Ciprian Bodin aka orynider @ github.com/beitdina/early-aramaic original based on Cardo with SIL Open Font License, \n
+Copyright: Copyright (C) 2026 The BeitDina Team (https://github.com/beitdina/nabataean-aramaic).
+
+Nabataean-Aramaic Font with Sianitic artistical influences.
+
+Created with FontForge 20230101 at Fri Jul 24 05:03:14 2026\nby Florin Ciprian Bodin aka orynider @ github.com/beitdina/early-aramaic original based on Cardo with SIL Open Font License, \n
 and some glyphs based on Noto Imperial Aramaic and Noto Samaritan made by The Not Noto Project Authors (https://github.com/notofonts/imperial-aramaic)\n
 and some portions of font metrics are based on GNU-GPL version and MIT License of Keter Aram Tzova by Yoram Knat \n
-who used Hebrew OpenType Layout logic copyright (c) 2003 & 2007, Ralph Hancock & John Hudson. 
+who used Hebrew OpenType Layout logic copyright (c) 2003 & 2007, Ralph Hancock & John Hudson. \n
+
 This layout logic for Biblical Hebrew is open source software under the MIT License; for details  contact copyright holders at <license@tiro.com>\n
 
-Copyleft 2026 The BeitDina Team (https://github.com/beitdina/early-aramaic
-Copyleft 2011 The Cardo Project Authors (https://github.com/googlefonts/CardoFont)
-Copyleft 2022 The Noto Project Authors (https://github.com/notofonts/imperial-aramaic)
+Copyright 2026 The BeitDina Team (https://github.com/beitdina/early-aramaic
+Copyright 2011 The Cardo Project Authors (https://github.com/googlefonts/CardoFont)
+Copyright 2022 The Noto Project Authors (https://github.com/notofonts/imperial-aramaic)
 
 This Font Software is licensed under the SIL Open Font License, Version 1.1.
 This license is copied below, and is also available with a FAQ at:
